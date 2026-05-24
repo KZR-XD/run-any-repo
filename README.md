@@ -10,7 +10,6 @@ Install [Python]([url](https://www.python.org/downloads/windows/)) or [Node.js](
 
 2. Download any repository:
 <img width="696" height="336" alt="image" src="https://github.com/user-attachments/assets/955699da-0887-4a42-8756-f83b613af7ee" />
-Copy-paste commands exactly
 
 3. Read README.md
 
