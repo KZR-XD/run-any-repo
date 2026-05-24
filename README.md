@@ -33,7 +33,8 @@ _Install_ [Python]([url](https://www.python.org/downloads/windows/)) _or_ [Node.
 
 **7. With commands mentioned in README.md install repo (without quotes). (venv - virtual enviorement is necessary just for Python Projects)**
 _For Example:
-Python Project: Install - "**python -m venv .venv**" > "**.venv\Scripts\activate**" > "**pip install -r requirements.txt**" > Run - "**python main.py**"
-node.js Project: Install - "**npm install -g runrepo@latest**" > Run - "**npm run dev**"_
+
+**Python Project:** _Install -_ "**python -m venv .venv**" > "**.venv\Scripts\activate**" > "**pip install -r requirements.txt**" > _Run -_ "**python main.py**"
+**node.js Project:** _Install_ - "**npm install -g runrepo@latest**" > _Run -_ "**npm run dev**"
 
 After following these steps Project should be installed and running on your device locally!
