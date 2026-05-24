@@ -4,7 +4,7 @@ Short Guide of how to install/run Github Reposteries.
 **IF YOU WANT TO SKIP TECHNICAL PART**:
 1. _Do 1. - 5. Step._
 2. _Create account @Windsurf or @Github (For "VS Code"), download it, install it, run it, log in._
-3. _File > "Open Folder" > Open repo folder you wish to run "C://RunRepo' and then just ask AI to "install and run the repository for me, use venv if necessary." and AI will execute all commands for you, that will start to app you wanted to explore._
+3. _File > "Open Folder" > Open repo folder you wish to run "C://RunRepo' and then just ask AI to "install and run the repository for me, use venv if necessary." and AI will execute all commands for you, that will start the app you wished to explore._
 
 
 
@@ -13,7 +13,7 @@ Short Guide of how to install/run Github Reposteries.
 
 _Install_ [VS Code]([url](https://code.visualstudio.com/download)) / [Windsurf]([url](https://windsurf.com/))
 
-_Install_ [7-ZIP]([url](https://www.7-zip.org/download.html)) _to unzip repo. _
+_Install_ [7-ZIP]([url](https://www.7-zip.org/download.html)) _to unzip repo._
 
 _Install_ [Python]([url](https://www.python.org/downloads/windows/)) _or_ [Node.js]([url](https://nodejs.org/en/download)) _if required._
 
